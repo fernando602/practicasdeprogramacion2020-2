@@ -7,7 +7,8 @@
 **practicas**
 
 1. 
-se realizaron tres programas, con el objetivo de aprender un poco de lo basico de el lenguaje c
-      a)[calcular el volumen de una esfera](https://github.com/fernando602/practicasdeprogramacion2020-2/blob/main/practica%201/ejercicio%20a.cpp)
+se realizaron tres programas, con el objetivo de aprender un poco de lo basico de el lenguaje c:[calcular el volumen de una esfera](https://github.com/fernando602/practicasdeprogramacion2020-2/blob/main/practica%201/ejercicio%20a.cpp), b)[ calcularla fuerzza de atraccion de  una persona](https://github.com/fernando602/practicasdeprogramacion2020-2/blob/main/practica%201/ejercicio%20b.cpp),[ calcular el indice de masa corporal de una persona](https://github.com/fernando602/practicasdeprogramacion2020-2/blob/main/practica%201/ejercicio%20c.cpp)
+      
    
-   
+
+
