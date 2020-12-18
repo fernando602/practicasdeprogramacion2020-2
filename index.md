@@ -19,6 +19,7 @@ se realizaron tres programas, con el objetivo de aprender un poco de lo basico d
 
 11.- [ractica 11](https://github.com/fernando602/practicasdeprogramacion2020-2/blob/main/practica11.cpp) se resulve un problema matematico mediante el uso de el metodo de Jacobi y el metodo de Gaus-Seidel.
 
+12.- [yo despues de que entreguen calificaciones](https://www.youtube.com/watch?v=PV5zp7UrawI&ab_channel=FernandoCristaldo)
 
       
    
